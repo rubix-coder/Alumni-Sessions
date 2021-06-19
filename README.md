@@ -1,6 +1,7 @@
 # Alumni-Sessions
  All ALumni Session Content
 
+<li>cookiecutter : https://drivendata.github.io/cookiecutter-data-science/</li>
 <li>Yuval Harari warns about the potential of AI: https://www.youtube.com/watch?v=HGTGoRrzItA</li>
 <li>Responsible AI: https://cloud.google.com/responsible-ai</li>
 <li>PAIR : https://pair.withgoogle.com/ </li>
