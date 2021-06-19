@@ -11,3 +11,4 @@
 <li>hyperopt : http://hyperopt.github.io/hyperopt/</li>
 <li>optuna : https://github.com/optuna/optuna</li>
 <li>Bentoml : https://docs.bentoml.org/en/latest/</li>
+<li>feast : https://feast.dev/</li>
