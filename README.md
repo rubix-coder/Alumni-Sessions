@@ -1,6 +1,8 @@
 # Alumni-Sessions
  All ALumni Session Content
 
+<li> Andrew NG course  https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?action=enroll#courses</li>
+</li> conrainerization : https://www.ibm.com/cloud/learn/containerization</li>
 <li>cookiecutter : https://drivendata.github.io/cookiecutter-data-science/</li>
 <li>Yuval Harari warns about the potential of AI: https://www.youtube.com/watch?v=HGTGoRrzItA</li>
 <li>Responsible AI: https://cloud.google.com/responsible-ai</li>
